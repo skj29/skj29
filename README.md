@@ -1,5 +1,5 @@
 ### Hi there 👋
-![내 소개](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=발전하는%20%20개발자%20심규진입니다&fontAlign=50&fontSize=50)
+![내 소개](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Gyu-jin!&fontAlign=50&fontSize=60&fontColor=f0ffff&animation=fadeIn&rotate=0)
 
 
 
